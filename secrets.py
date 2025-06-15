@@ -1,0 +1,3 @@
+SSID = "SSID"
+
+PASSWORD = "Password"
